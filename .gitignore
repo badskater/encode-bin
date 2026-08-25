@@ -1,0 +1,7 @@
+# This repo exists to hold release ASSETS (bin-package.zip, ~144 MB).
+# GitHub rejects committed files >100 MB, so no package content is committed.
+bin-package.zip
+*.zip
+*.7z
+*.exe
+*.dll
